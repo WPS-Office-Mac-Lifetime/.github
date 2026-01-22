@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/db/f2/03dbf25e-11e2-4bec-92d0-2ce00766a510/wpsoffice.png/1200x630bb.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/">
+<a href="https://ysids-apps-hub.github.io/.github/WPS">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
